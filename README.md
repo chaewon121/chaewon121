@@ -1,5 +1,5 @@
 # Value: ↩️ There is nothing that is taken for granted
-모든것의 당연한 것은 없다고 생각합니다.
+모든 것에 당연한 것은 없다고 생각합니다.
 
 호기심이 많으며 당연한 것에도 **왜?** 라는 질문을 많이 합니다.
 
