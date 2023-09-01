@@ -32,7 +32,7 @@
 </a>
 <a href="https://github.com/joseph415/JIKGORAE-project-records">
     <img 
-        src="http://img.shields.io/badge/-기술 적용기-3282b8?style=flat&logo=Github&link=https://github.com/chaewon121/JIKGORAE-project-records"
+        src="http://img.shields.io/badge/-기술 적용기-3282b8?style=flat&logo=Github&link=https://github.com/chaewon121/NAAGA-project-records"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 </div>
