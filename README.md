@@ -8,7 +8,7 @@
 <a href="http://joseph415.github.io/resume/">
     <img 
         src="http://img.shields.io/badge/-📘resume-bbe1fa?style=flat&link=http://joseph415.github.io/resume/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 10px; margin-right : 20px;"/>
 </a>
 
 # 우아한테크코스
@@ -17,7 +17,7 @@
 <a href="https://github.com/chaewon121/woowacourse-learns">
     <img 
         src="http://img.shields.io/badge/-Github Repo-1b262c?style=flat&logo=Github&link=https://github.com/joseph415/woowacourse-learns"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 
 ## 📑 Project
@@ -28,17 +28,12 @@
 <a href="https://github.com/woowacourse-teams/2023-naaga">
     <img 
         src="http://img.shields.io/badge/-Project Repo-1b262c?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2020-seller-lee-company"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 <a href="https://github.com/joseph415/JIKGORAE-project-records">
     <img 
-        src="http://img.shields.io/badge/-기술 적용기-3282b8?style=flat&logo=Github&link=https://github.com/joseph415/JIKGORAE-project-records"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://sites.google.com/woowahan.com/wooteco-demo/직고래">
-    <img 
-        src="http://img.shields.io/badge/-🐳 Demo Site-bbe1fa?style=flat&link=https://sites.google.com/woowahan.com/wooteco-demo/직고래/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        src="http://img.shields.io/badge/-기술 적용기-3282b8?style=flat&logo=Github&link=https://github.com/chaewon121/JIKGORAE-project-records"
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 </div>
 
