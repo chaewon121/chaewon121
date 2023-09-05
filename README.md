@@ -1,9 +1,5 @@
 # Value: ↩️ There is nothing that is taken for granted
-모든 것에 당연한 것은 없다고 생각합니다.
 
-호기심이 많으며 당연한 것에도 **왜?** 라는 질문을 많이 합니다.
-
-새로운 것에 대해 적극적이고 빠르게 흡수하고 열정적으로 받아들입니다. 
 
 <a href="http://joseph415.github.io/resume/">
     <img 
@@ -44,4 +40,4 @@
 - Ec2, Nginx
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joseph415&count_private=true&hide=stars&show_icons=true)](https://github.com/chaewon121/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaewon121&count_private=true&hide=stars&show_icons=true)](https://github.com/chaewon121/github-readme-stats)
