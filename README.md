@@ -10,7 +10,7 @@
 # 우아한테크코스
 
 ## ✏️ Woowacourse Learns
-<a href="https://github.com/chaewon121/woowacourse-learns">
+<a href="https://github.com/chaewon121/woowacourse-learn-records">
     <img 
         src="http://img.shields.io/badge/-Github Repo-1b262c?style=flat&logo=Github&link=https://github.com/joseph415/woowacourse-learns"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
