@@ -1,12 +1,5 @@
 # Value: ↩️ There is nothing that is taken for granted
 
-
-<a href="http://joseph415.github.io/resume/">
-    <img 
-        src="http://img.shields.io/badge/-📘resume-bbe1fa?style=flat&link=http://joseph415.github.io/resume/"
-        style="height : auto; margin-left : 10px; margin-right : 20px;"/>
-</a>
-
 # 우아한테크코스
 
 ## ✏️ Woowacourse Learns
