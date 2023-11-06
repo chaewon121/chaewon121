@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JuriYoon&fontSize=90&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ChaewonShin&fontSize=90&animation=scaleIn)
 
 
 
@@ -10,9 +10,6 @@
 Email : cw121@naver.com  
 
 Velog : https://chaewon121.tistory.com
-  
-
-  
 
 </div>
 
