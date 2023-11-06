@@ -1,36 +1,35 @@
-# Value: ↩️ There is nothing that is taken for granted
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JuriYoon&fontSize=90&animation=scaleIn)
 
-# 우아한테크코스
 
-## ✏️ Woowacourse Learns
-<a href="https://github.com/chaewon121/woowacourse-learn-records">
-    <img 
-        src="http://img.shields.io/badge/-Github Repo-1b262c?style=flat&logo=Github&link=https://github.com/joseph415/woowacourse-learns"
-        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
 
-## 📑 Project
+<div align=center>
 
-### 나아가
-**장소의 사진을 보고 걸어다니며 추리하는 게임 서비스**
-<div>
-<a href="https://github.com/woowacourse-teams/2023-naaga">
-    <img 
-        src="http://img.shields.io/badge/-Project Repo-1b262c?style=flat&logo=Github&link=https://github.com/woowacourse-teams/2023-naaga"
-        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
-<a href="https://github.com/chaewon121/NAAGA-project-records">
-    <img 
-        src="http://img.shields.io/badge/-기술 적용기-3282b8?style=flat&logo=Github&link=https://github.com/chaewon121/NAAGA-project-records"
-        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
-</a>
+  
+### Contacts 📫
+
+Email : cw121@naver.com  
+
+Velog : https://chaewon121.tistory.com
+  
+
+  
+
 </div>
 
-## Stack
-- Java
-- Spring, Spring Boot, Spring MVC, Spring Data JPA, Junit5, Mockito, Oauth2.0
-- Mysql, JPA
-- Ec2, Nginx
-<br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chaewon121&count_private=true&hide=stars&show_icons=true)](https://github.com/chaewon121/github-readme-stats)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+
+<!--
+**jurlring/jurlring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
