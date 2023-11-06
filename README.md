@@ -20,7 +20,7 @@ Velog : https://chaewon121.tistory.com
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 <!--
-**jurlring/jurlring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**chaewon121/chaewon121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
