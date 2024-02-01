@@ -9,7 +9,7 @@
 
 Email : cw121@naver.com  
 
-Velog : https://chaewon121.tistory.com
+Blog : https://chaewon121.tistory.com
 
 </div>
 
